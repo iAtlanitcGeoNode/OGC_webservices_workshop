@@ -1,8 +1,6 @@
 <img src="./img/logo.png" align="right" width="50%"></img>
 # iAtlantic GeoNode 101
-## Tier 2: How to use the iAtlantic GeoNode?
-# iAtlantic GeoNode 101
-## Tier 2: How to use OGC webservices offered by the iAtlantic GeoNode in your data analysis
+### Tier 2: How to use OGC webservices offered by the iAtlantic GeoNode in your data analysis
 
 **Duration:** 40 min
 
