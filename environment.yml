@@ -2,8 +2,6 @@ name: ogc_workshop
 channels:
   - conda-forge
 dependencies:
-  - gdal
-  - pyproj
   - cartopy
   - geopandas
   - rasterio
