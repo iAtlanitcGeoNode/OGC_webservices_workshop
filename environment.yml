@@ -3,22 +3,15 @@ channels:
   - conda-forge
 dependencies:
   - gdal
-  - pyshp
   - pyproj
   - cartopy
   - geopandas
   - rasterio
   - xarray
-  - scipy
-  - pysal
   - owslib
-  - lxml
   - numpy
   - matplotlib
   - pandas
-  - jupyter
-  - pip:
-    - json
 
 
  
