@@ -14,7 +14,8 @@
 - [Subset and download data using OGC Web Feature and Coverage Services (WFS/WCS)](./3_subset_and_download_data_with_WFS&WCS.ipynb)
 - [Use OGC services with QGIS and/or ArcGIS](./4_OGC_services_from_QGIS_and_ArcGIS.ipynb)
 
-**Open in interactive mode:** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iAtlanticGeoNode/OGC_webservices_workshop/master)
-
+**Open in interactive mode:** 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iAtlanticGeoNode/OGC_webservices_workshop/master)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iAtlanticGeoNode/OGC_webservices_workshop/blob/master/0_Introduction_to_OGC_web_services.ipynb)
 
 
