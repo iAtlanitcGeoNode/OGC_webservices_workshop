@@ -9,5 +9,6 @@ dependencies:
   - owslib
   - numpy
   - matplotlib
-  - pandas 
+  - pandas
+  - basemap
 
